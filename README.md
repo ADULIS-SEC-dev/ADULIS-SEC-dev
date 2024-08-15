@@ -2,7 +2,7 @@
 NEEDS CHANGE!
 --->
 
-# ADULIS® | SECURITIES Official Open-Source Development Account
+# ADULIS® | SECURITIES - Official Open-Source Development Account
 ⚡"Powering the World through Virtual Communities"
 
 ---
