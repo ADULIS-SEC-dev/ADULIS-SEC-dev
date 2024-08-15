@@ -9,7 +9,7 @@ NEEDS SOME CHANGES!
 ---
 ## Introduction
 * 👋Welcome to ADULIS® | SECURITIES' Official Open-Source Development Account!
-* 🧠Here, we upload parts of our source code for the Open-Source community to review, edit and make other great things!
+* 🧠Here, we upload parts of our source code/s for the Open-Source community to review, edit and make other great things!
 
 ---
 ## About Us
