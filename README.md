@@ -1,5 +1,6 @@
 <!---
 NEEDS SOME CHANGES!
+	# Contact info (create a separate one for it!)
 --->
 
 # ADULIS® | SECURITIES - Official Dev Account
@@ -18,4 +19,4 @@ NEEDS SOME CHANGES!
 ---
 ## Contact Us
 * 📞: (+251) 9 29 09 47 60
-* 📧: adulisseca@gmail.com; intmax47@gmail.com; Telegram @ayayron_dispo
+* 📧: adulisseca@gmail.com; intmax47@gmail.com;
