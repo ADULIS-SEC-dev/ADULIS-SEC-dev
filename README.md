@@ -2,12 +2,12 @@
 NEEDS CHANGE!
 --->
 
-# ADULIS® | SECURITIES - Official Open-Source Development Account
+# ADULIS® | SECURITIES - Official Dev Account
 ⚡"Powering the World through Virtual Communities"
 
 ---
 ## Introduction
-* 👋Welcome to ADULIS® | SECURITIES' Official Development Account!
+* 👋Welcome to ADULIS® | SECURITIES' Official Open-Source Development Account!
 * 🧠Here, we upload parts of our source code for the Open-Source community to review, edit and make other great things!
 
 ---
