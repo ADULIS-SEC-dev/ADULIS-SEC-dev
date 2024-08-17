@@ -4,7 +4,7 @@ NEEDS SOME CHANGES!
 --->
 
 # ADULIS® | SECURITIES - Official Dev Account
-⚡"Powering the World through Virtual Communities"🇪🇹
+⚡"Powering the World through Virtual Communities"
 
 ---
 ## Introduction
