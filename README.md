@@ -26,4 +26,4 @@ NEEDS SOME CHANGES!
 ---
 ## Contact Us
 * 📞: (+251) 9 29 09 47 60
-* 📧: adulisseca@gmail.com; intmax47@gmail.com
+* 📧: adulisseca@gmail.com; aaronabrahamxx47@gmail.com
