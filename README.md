@@ -14,7 +14,7 @@ NEEDS SOME CHANGES!
 ---
 ## About Us
 * ADULIS® SECURITIES is a startup specializing in software-powered ventures, aiming to build ecosystems of <ins>Intelligent</ins> (AI across different systems), <ins>Digital</ins> (Bringing the digital and real worlds together) and <ins>Mesh</ins> (Connecting people and things together) technologies, leveraging high-level research and innovation to provide cost-effective and modern solutions for businesses and consumers across a wide range of industries.
-* Marketed as a Venture Capital company, we inspire to develop and invest in tech ideas worth making, mainly from Finance to Engineering, Security and Energy.
+* Marketed as a Venture Capital company, we inspire to develop and invest in tech ideas worth making, from Finance and Engineering to Security and Energy.
 * We are currently setting up our company in Ethiopia🇪🇹, and offering demos for a few of our software suites in the FinTech and Cybersecurity industries (with plans to expand beyond).
 
 ---
